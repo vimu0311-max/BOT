@@ -59,5 +59,6 @@
     "@dark-yasiya/news-scrap" : "latest",
     "sharp":"^0.32.6",
     "acrcloud":"latest"
+    "xml2js":"0.6.2"
   }
 }
